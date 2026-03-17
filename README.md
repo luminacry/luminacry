@@ -45,7 +45,6 @@
 
 <p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sushilmagare10&show_icons=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilmagare10&layout=compact&langs_count=5" />
 </p>
 
 ---
