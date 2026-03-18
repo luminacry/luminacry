@@ -2,13 +2,13 @@
 
 # HUA
 
-**Android Native Developer** · Kotlin · Jetpack Compose  
-Building clean, fluid, and scalable Android experiences.
+**Android Native Developer**  
+Kotlin · Jetpack Compose · UX · Performance
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=luminacry&label=views&color=6750A4&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Material%203-inspired-6750A4?style=flat" alt="material3" />
-  <img src="https://img.shields.io/badge/Focus-UX%20%26%20Performance-386A20?style=flat" alt="focus" />
+  <img src="https://komarev.com/ghpvc/?username=luminacry&label=views&color=6750A4&style=flat" alt="views" />
+  <img src="https://img.shields.io/badge/Design-Material%203-6750A4?style=flat" alt="m3" />
+  <img src="https://img.shields.io/badge/Focus-Compose%20Architecture-386A20?style=flat" alt="focus" />
 </p>
 
 </div>
@@ -17,21 +17,29 @@ Building clean, fluid, and scalable Android experiences.
 
 ## About
 
-- 🔧 Working on: **Minimalist Android Live Wallpaper** (WallpaperService + Canvas)
+I build Android apps with a **component-first mindset**:  
+clear structure, reusable UI blocks, and smooth user experience.
+
+- 🔭 Current: **Minimalist Live Wallpaper Demo** (`WallpaperService + Canvas`)
 - 🌱 Learning: **C++**
-- 💬 Comfortable with: **Kotlin · Python · JavaScript · Node.js**
+- 💬 Topics: **Kotlin, Python, JavaScript, Node.js**
 
 ---
 
-## M3-oriented Build Style
+## Build Principles (M3-oriented)
 
-- **Design tokens first**: color / typography / shape
-- **Composable by default**: reusable UI blocks over one-off screens
-- **Performance-aware**: smooth rendering, low overdraw, practical architecture
+- **Token-driven UI**  
+  Color / typography / shape are treated as design tokens.
+
+- **Composable architecture**  
+  Reusable components over one-off screen code.
+
+- **Performance as default**  
+  Practical optimization for rendering, state, and responsiveness.
 
 ---
 
-## Tech
+## Tech Stack
 
 <p>
   <img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="22" alt="Kotlin"/>
