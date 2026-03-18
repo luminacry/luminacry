@@ -28,14 +28,14 @@ clear structure, reusable UI blocks, and smooth user experience.
 
 ## Build Principles (M3-oriented)
 
-- **Token-driven UI**  
-  Color / typography / shape are treated as design tokens.
+- **Design system first**  
+  Build with consistent color, typography, spacing, and shape tokens.
 
-- **Composable architecture**  
-  Reusable components over one-off screen code.
+- **Compose for reuse**  
+  Create modular UI components that scale across screens and features.
 
-- **Performance as default**  
-  Practical optimization for rendering, state, and responsiveness.
+- **Smooth by design**  
+  Prioritize responsiveness, stable state handling, and efficient rendering.
 
 ---
 
