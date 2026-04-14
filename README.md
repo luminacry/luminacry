@@ -65,6 +65,5 @@ clear structure, reusable UI blocks, and smooth user experience.
 ## Stats
 
 <p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=luminacry&show_icons=true&hide_border=true" alt="stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=luminacry&layout=compact&hide_border=true" alt="langs" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luminacry)
 </p>
